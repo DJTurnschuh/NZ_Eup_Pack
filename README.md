@@ -127,6 +127,8 @@ Here is some suggestions you can make:
 
 **Huge thanks and credits go to the following people for their amazing work which helped inspire me to make this pack!**
 
+- DurtyFree's [Cloth Tool](https://cloth.durty.dev), without him this would not be possible.
+
 - New Zealand EUP Pack (MP Male) by [Boondock](https://www.gta5-mods.com/users/Boondock), I applied these textures and fine tuned them for MP Female.
 
 
