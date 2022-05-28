@@ -34,6 +34,7 @@ I want to express to any law enforcement that I have no control over how people 
 - 1 x Police internal shirt
 - 1x Police internal shirt with tie
 - 1x Police vest
+- 1x Arm cast 7 textures
 - 1x Covid Mask 4 textutes - black, Pink, Surgical Blue, NZ Police blue
 - 1x Short Sleeve shirt 3 textures - Police, St John, Fire
 - 1x Long Sleeve shirt 3 textures - Police, St John, Fire
@@ -70,6 +71,7 @@ I want to express to any law enforcement that I have no control over how people 
 - 1x Paramedic Belt with Wiwang walkie-talkie and keys
 - 1x Firefighter oxygen tank
 - 1x Police vest
+- 1x Arm cast 7 textures
 - 1x Covid Mask 4 textutes - black, Pink, Surgical Blue, NZ Police blue
 - 1x Short Sleeve shirt 3 textures - Police, St John, Fire
 - 1x Long Sleeve shirt 3 textures - Police, St John, Fire
