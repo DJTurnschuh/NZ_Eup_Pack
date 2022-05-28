@@ -8,7 +8,9 @@ This pack was created with DurtyFree's [Cloth Tool](https://cloth.durty.dev), wi
 
 **Thanks for downloading and checking out my Ultimate NZ EUP Pack!**
 
-After checking out many GTA 5 mods and FiveM servers, stumbling across NZ EUP packs that were either exclusive to the server they were on, or hidden behind a ridiculous pay wall, to then finding a few packs readily available for free but severely lacking female outfits, I decided to painstakingly take it upon myself to retexture and bring NZ Police, Fire ***and*** St Johns' Ambulance outfits, to Los Santos. You're welcome 😎
+After checking out many GTA 5 mods and FiveM servers, stumbling across NZ EUP packs that were either exclusive to the server they were on, or hidden behind a ridiculous pay wall, to then finding a few packs readily available for free but severely lacking female outfits, I decided to painstakingly take it upon myself to retexture and bring NZ Police, Fire ***and*** St Johns' Ambulance outfits, to Los Santos, all in one pack. You're welcome 😎
+
+This pack does not replace original clothing items, but rather add them as an add-on after the latest set of DLC clothing by Rockstar. This will vary depending on your FiveM gamebuild *
 
 ---------------------------------------
 
@@ -23,26 +25,80 @@ I want to express to any law enforcement that I have no control over how people 
 
 # **FEATURES:** 🌟
 
-**MP Male and MP Female**
+**MP Male**
 
-- Police
-- Fire
-- Ambulance
-- Body Armour
-- Raincoats
-- Police Belts
-- Paramedic Belts
-- Police and St John Cap
-- Police Hat
-- Police Cowboy Hat
-- Apple Series 5 Watch
-- Covid Mask
-- New Zealand Covid Mask Exemption 
+- 1x Police Belt with X26 yellow taser
+- 1x Paramedic Belt with Wiwang walkie-talkie
+- 1x Paramedic Belt with Wiwang walkie-talkie and keys
+- 1x Firefighter oxygen tank
+- 1 x Police internal shirt
+- 1x Police internal shirt with tie
+- 1x Police vest
+- 1x Covid Mask 4 textutes - black, Pink, Surgical Blue, NZ Police blue
+- 1x Short Sleeve shirt 3 textures - Police, St John, Fire
+- 1x Long Sleeve shirt 3 textures - Police, St John, Fire
+- 1x Jacket 4 textures - Police HiVis, Police blue, St John Hi Vis, St John green
+- 1x HiVis Raincoat hood down 2 textures - Police, St John
+- 1x HiVis Raincoat Hood Up 2 textures - Police, St John
+- 1x HiVis Raincoat with drawstring 2 textures - Police, St John
+- 1x Police Winter Coat
+- 1x Firefighter Suit Top
+- 1x Police blue pants
+- 1x pants 2 textures - St John, Fire
+- 1x Firefighter Suit Pants
+- 1x Cap 2 textures - Police, St John
+- 1x Police peaked hat
+- 1x Police cowboy hat
+- 1x Firefighter helmet visor up
+- 1x Firefighter helmet visor down
+- 1x Pair of AirPods 3 textures - White, Purple, Black
+- 1x Apple Watch Series 5, 3 textures - Black Star Wars, Black home icons, Brown strap, roman numeral clock
+- 1x Body armour 4 pockets 
+- 1x Body armour no pockets
+- 1x Body armour 3 textures - HiVis police, HiVis police option 2, police blue
+- 1x Walkie-Talkie for police belt
+- 2x NZ Covid mask exemptions , blue chain
+
 
 ---------------------------------------
 
-# Screenshots 📸
+**MP Female**
 
+
+- 1x Police Belt with X26 yellow taser
+- 1x Paramedic Belt with Wiwang walkie-talkie
+- 1x Paramedic Belt with Wiwang walkie-talkie and keys
+- 1x Firefighter oxygen tank
+- 1x Police vest
+- 1x Covid Mask 4 textutes - black, Pink, Surgical Blue, NZ Police blue
+- 1x Short Sleeve shirt 3 textures - Police, St John, Fire
+- 1x Long Sleeve shirt 3 textures - Police, St John, Fire
+- 1x Jacket 4 textures - Police HiVis, Police blue, St John Hi Vis, St John green
+- 1x HiVis Raincoat hood down 2 textures - Police, St John
+- 1x HiVis Raincoat Hood Up 2 textures - Police, St John
+- 1x HiVis Raincoat with drawstring 2 textures - Police, St John
+- 1x Police Winter Coat
+- 1x Firefighter Suit Top
+- 1X Police long sleeve shirt with tie
+- 1x Police blue pants
+- 1x pants 2 textures - St John, Fire
+- 1x Firefighter Suit Pants
+- 1x Cap 2 textures - Police, St John
+- 1x Police peaked hat
+- 1x Police cowboy hat
+- 1x Firefighter helmet visor up
+- 1x Firefighter helmet visor down
+- 1x Pair of AirPods 3 textures - white, pink, black
+- 1x Apple Watch Series 5, 3 textures - Pink hearts and lollipops, Blue disney, Red home icons
+- 1x Body armour
+- 1x Body armour 3 textures - HiVis police, HiVis police option 2, police blue
+- 1x Walkie-Talkie for police belt
+- 4x NZ Covid mask exemptions, pink chain
+
+---------------------------------------
+
+
+# Screenshots 📸
 
 
 | | | |
@@ -101,9 +157,8 @@ You can read more here [HERE](https://opensource.stackexchange.com/questions/172
 
 # Important Notice
 
-This clothing pack was tested on gamebuild mpsecurity aka 2545 with the understanding that there are 2 additional free slots to be used, which have been taken up via using this very pack. If for whatever reason you crash using this pack, please read here and perhaps consider downgrading your gamebuild until Rockstar Games increases the [YMT limits](https://github.com/DurtyFree/durty-cloth-tool/wiki/YMT-game-limit-and-crash-issues) on/for future DLCs:
+This clothing pack was tested on gamebuild mpg9ec aka 2612 with the understanding that there are *about* 20 additional free .ymt slots to be used. If for whatever reason you crash using this pack, please read here and perhaps consider downgrading your gamebuild until Rockstar Games increases the [YMT limits](https://github.com/DurtyFree/durty-cloth-tool/wiki/YMT-game-limit-and-crash-issues) on/for future DLCs.
 
-In current game version b2612 (mpg9ec), R* seems to have increased the YMT limit, we have about 20 additional free .ymt slots to be used.
 
 See my tutorial regarding [gamebuilds:](https://forum.cfx.re/t/tutorial-forcing-gamebuild-to-casino-cayo-perico-tuners-future-dlcs/4784977)
 
@@ -146,4 +201,4 @@ Here is some suggestions you can make:
 
 - COVID Face Mask by [kuwu](https://forum.cfx.re/u/kuwu/summary), retextured by myself, TayMcKenzieNZ
 
-
+- AirPods by [TM Tom199](https://www.gta5-mods.com/users/TM%20Tom199)
